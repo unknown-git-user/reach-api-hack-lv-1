@@ -1,0 +1,5 @@
+build/
+.reach/
+.vscode
+.DS_Store
+reach
